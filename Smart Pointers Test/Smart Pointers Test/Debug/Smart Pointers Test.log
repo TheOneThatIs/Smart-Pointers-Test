@@ -1,0 +1,3 @@
+﻿  Application.cpp
+D:\Documents\Development\Programming\C++\My Programs\Smart Pointers Test\Smart Pointers Test\Source\Application.cpp(26,22): warning C4018: '<': signed/unsigned mismatch
+  Smart Pointers Test.vcxproj -> D:\Documents\Development\Programming\C++\My Programs\Smart Pointers Test\Debug\Smart Pointers Test.exe
